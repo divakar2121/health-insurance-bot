@@ -1,0 +1,12 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.21.209.52:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-714-110
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2026 23:22:48] "GET /health HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2026 23:23:48] "GET /health HTTP/1.1" 200 -
