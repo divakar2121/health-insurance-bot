@@ -4,31 +4,22 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
-*.egg-info/
-dist/
-build/
 venv/
 env/
-
-# Data files (too large)
-data/
-uploads/
-
-# Logs
-*.log
-flask.log
-
-# Jupyter
-.ipynb_checkpoints/
-
-# OS
-.DS_Store
-Thumbs.db
+.venv/
 
 # Environment
 .env
 *.db
 
-# IDE
-.vscode/
-.idea/
+# Logs
+*.log
+
+# Data (too large)
+data/
+uploads/
+extracted/
+
+# OS
+.DS_Store
+Thumbs.db
